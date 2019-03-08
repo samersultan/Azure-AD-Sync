@@ -6,3 +6,7 @@ Save powershell script on primary domain controller. Run when you want to manual
 
 
 <img src="https://i.imgur.com/JtPUf2i.png">
+
+---
+
+If you have any suggestions, please reach out to me on twitter <a href="https://twitter.com/sultansolutions">@SultanSolutions</a>
