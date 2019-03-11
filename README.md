@@ -1,6 +1,6 @@
 # Azure-AD-Sync
 
-:zap:PowerShell Script to Sync local Active Directory with Azure Active Directory:zap:
+:zap:PowerShell Script to manually Sync local Active Directory with Azure Active Directory:zap:
 
 Save powershell script on primary domain controller. Run when you want to manually sync the domain controller with Azure Active Directory. 
 
